@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Korg &#8211; MusicMania</title>
+	<atom:link href="/product-category/korg/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Be your own rockstar</description>
+	<lastBuildDate>Sun, 21 Apr 2024 13:23:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/04/cropped-Screenshot-2024-04-17-at-1.06.16-PM-32x32.png</url>
+	<title>Korg &#8211; MusicMania</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Korg Minilogue XD Polyphonic Analog Synthesizer</title>
+		<link>/product/korg-minilogue-xd-polyphonic-analog-synthesizer/</link>
+					<comments>/product/korg-minilogue-xd-polyphonic-analog-synthesizer/#respond</comments>
+		
+		<dc:creator><![CDATA[Marius Kieldsen]]></dc:creator>
+		<pubDate>Mon, 08 Apr 2024 08:40:15 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=106</guid>
+
+					<description><![CDATA[Limitless creativity. The Korg Minilogue XD synthesizer combines vintage analog warmth with modern digital versatility, inspiring musicians to explore new sonic possibilities.]]></description>
+										<content:encoded><![CDATA[<p>Unleash your creativity with the Korg Minilogue XD Polyphonic Analog Synthesizer. Building upon the success of the original Minilogue, this powerful instrument combines analog synthesis with digital technology, offering a vast array of sonic possibilities. The Minilogue XD features four voices of polyphony, with two analog oscillators and a digital multi-engine oscillator that can be customized with user-programmable waveforms. With its intuitive interface and 16-step sequencer, you can easily create complex sequences and evolving soundscapes on the fly. The built-in effects section includes reverb, delay, and modulation effects, allowing you to add depth and dimension to your sounds. Whether you&#8217;re a seasoned synth enthusiast or a beginner looking to explore new sonic territories, the Korg Minilogue XD is sure to inspire your creativity.</p>
+<ul>
+<li>Korg Minilogue XD er en polyfonisk analog synth med masser af varme, punch og karakter.</li>
+<li>XD versionen er en opgradering af den originale Minilogue, der bl.a. tilføjer digitale &#8216;Multi Engine&#8217;, der byder på noise, VPM og &#8216;user slot&#8217; lyd generatorer.</li>
+<li>Noise generatoren kan producere fire slags noise og er perfekt til perkussive lyde og lydeffekter.</li>
+<li>VPM (Variable Phase Modulation) er en VPM/FM oscillator lader dig skabe skarpe og moderne lyde, som ellers ikke er muligt med en analog synth. 16 oscillator typer og &#8216;shape&#8217; kontrol.</li>
+<li>Den mest spændende feature i Multi Engine-delen, er &#8216;user slot&#8217; &#8211; her kan du loade egne open source kreationer eller downloade brugergenererede oscillatorer fra nettet. Korg har således åbnet Minilogue for uanede mængder af kreativitet!</li>
+<li>XD kommer med 200 presets og 500 programmer.</li>
+<li>Effektmaskine &#8211; 32-bit floating point DSP effekter giver dig mulighed for at færdigproducere din synthlyd. Du får modutionseffekter, reverb og delay og alle tre kan bruges samtidigt. Du kan desuden loade bruger genererede effekter i de 16 &#8216;user slots&#8217;.</li>
+<li>Brug Korgs SDK (Software Developer Kit) til at programmere effekter og oscillatorer.</li>
+<li>Polyfonisk stepsequencer &#8211; 16 steps med dedikerer knapper, der både lader dig optage real time og i steps.</li>
+<li>Joystik-style modulation/pitch kontrol.</li>
+<li>37 tangenter.</li>
+<li>Stereo line out (jack).</li>
+<li>CV og MIDI &#8211; kontrollér Minilogue XD via CV/gate eller MIDI over DIN stik og USB-B.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/korg-minilogue-xd-polyphonic-analog-synthesizer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

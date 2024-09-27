@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Neumann &#8211; MusicMania</title>
+	<atom:link href="/product-category/neumann/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Be your own rockstar</description>
+	<lastBuildDate>Sun, 21 Apr 2024 13:04:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/04/cropped-Screenshot-2024-04-17-at-1.06.16-PM-32x32.png</url>
+	<title>Neumann &#8211; MusicMania</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Neumann U87 Large-Diaphragm Condenser Microphone</title>
+		<link>/product/neumann-u87-large-diaphragm-condenser-microphone/</link>
+					<comments>/product/neumann-u87-large-diaphragm-condenser-microphone/#respond</comments>
+		
+		<dc:creator><![CDATA[Kosei Oki]]></dc:creator>
+		<pubDate>Wed, 10 Apr 2024 10:39:34 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=450</guid>
+
+					<description><![CDATA[Studio standard. Unrivaled clarity. The Neumann U87 microphone is a legend in the recording industry, renowned for its pristine sound quality and versatility.]]></description>
+										<content:encoded><![CDATA[<p>Introducing the Neumann U87 Large-Diaphragm Condenser Microphone &#8211; the epitome of audio excellence! Renowned for its pristine sound quality and unmatched versatility, the U87 is a must-have for any serious audio professional. Whether you&#8217;re recording vocals, instruments, or podcasts, this microphone delivers unparalleled clarity and warmth, capturing every nuance with precision and finesse. Its legendary design and robust build ensure reliability in any recording environment, from the comfort of your home studio to the grandeur of a professional recording facility. Elevate your sound to the next level with the Neumann U87 &#8211; where quality meets perfection.</p>
+<ul class="fx-list product-text__list">
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Pressure gradient receiver</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Polar pattern: omnidirectional, cardioid, figure-of-eight</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Switchable 10 dB attenuation</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Nominal impedance 200 Ohm</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Frequency response 20 &#8211; 20,000 Hz</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Sound pressure level for k &lt; 0.5%: 117 dB (cardioid)</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Sound pressure level for k &lt; 0.5% with pre-attenuation: 127 dB</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">48 V phantom powering required</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Dimensions (diameter x length): 56 x 200 mm</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Weight: 500 g</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Colour: Nickel</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Suitable elastic suspension: art. <a class="fx-link" title="Neumann EA87" href="https://www.thomann.de/gb/neumann_ea87.htm">125520</a> (not included)</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Suitable tripod mount: art. <a class="fx-link" title="Neumann SG 287" href="https://www.thomann.de/gb/neumann_sg_87.htm">218556</a> (not included)</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/neumann-u87-large-diaphragm-condenser-microphone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
