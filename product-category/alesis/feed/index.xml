@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alesis &#8211; MusicMania</title>
+	<atom:link href="/product-category/alesis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Be your own rockstar</description>
+	<lastBuildDate>Sun, 21 Apr 2024 13:19:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/04/cropped-Screenshot-2024-04-17-at-1.06.16-PM-32x32.png</url>
+	<title>Alesis &#8211; MusicMania</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Alesis Nitro Mesh Electronic Drum Kit</title>
+		<link>/product/alesis-nitro-mesh-electronic-drum-kit/</link>
+					<comments>/product/alesis-nitro-mesh-electronic-drum-kit/#respond</comments>
+		
+		<dc:creator><![CDATA[Kosei Oki]]></dc:creator>
+		<pubDate>Mon, 08 Apr 2024 09:25:08 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=190</guid>
+
+					<description><![CDATA[Expressive playability. Dynamic sound. The Alesis Nitro Mesh electronic drum kit features responsive mesh pads and versatile sound options, making it ideal for practice or performance.]]></description>
+										<content:encoded><![CDATA[<p>Enter the world of electronic drumming with the Alesis Nitro Mesh Electronic Drum Kit. Designed for beginners and experienced players alike, this affordable kit offers realistic feel, responsive playability, and a wide range of sounds and features. The Nitro Mesh Kit features an 8-piece drum set with mesh drum heads, providing a natural feel and quiet operation that&#8217;s perfect for practice and performance. The included Nitro Drum Module offers 40 ready-to-play kits, 385 sounds, and 60 built-in play-along tracks, giving you plenty of options to explore and experiment with. With its intuitive interface, USB-MIDI connectivity, and headphone output for silent practice, the Alesis Nitro Mesh Electronic Drum Kit is the perfect solution for drummers looking to take their skills to the next level.</p>
+<ul class="fx-list product-text__list">
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">With 32 classic and modern drum kits from BFD + 16 user kits</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">440 Drum, cymbal and precussion sounds</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Reverb</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">3-Band EQ</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">60 Play-along-tracks</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Sequencer, metronome and performance recorder</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Large 10&#8243; Dual-Zone mesh snare</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">3x 8&#8243; Mesh Single-Zone tom pads</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">10&#8243; Crash cymbal with choke</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">10&#8243; Ride and 10&#8243; hi-hat with foot controller</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">4-Post aluminium rack</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Drum module with professionally recorded sounds from the BFD drum library</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Bluetooth audio streaming for wireless music playback</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Integrated device holder</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">USB/MIDI connection</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">1/8&#8243;-Stereo-aux input</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">1/4&#8243; Stereo line outputs and 1/8&#8243; headphone output</span></li>
+<li class="fx-list__item list-item fx-list__item--circle"><span class="fx-text fx-text--plus list-item__text">Includes 90-day free subscription to Drumeo and 30-day free subscription to Melodics Premium plus 60 exclusive lessons</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/alesis-nitro-mesh-electronic-drum-kit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
